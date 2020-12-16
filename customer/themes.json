@@ -1,0 +1,201 @@
+[{
+        "name": "narrative",
+        "product_title": ".product__title",
+        "product_price": ".product__price",
+        "product_addcart": ".product-form",
+        "product_description": ".product__description",
+        "product_content": ".product__content"
+    },
+    {
+        "name": "jumpstart",
+        "product_title": ".header__custom",
+        "product_price": "#AddToCartForm span.price",
+        "product_addcart": "#AddToCartForm button",
+        "product_description": ".product-description",
+        "product_content": ".product"
+    },
+    {
+        "name": "boundless",
+        "product_title": ".grid__item h2",
+        "product_price": "#AddToCartForm .product__price",
+        "product_addcart": ".product__form button.add-to-cart",
+        "product_description": ".product-single__description",
+        "product_content": ".product__details-content"
+    },
+    {
+        "name": "debut",
+        "product_title": ".product-single__title",
+        "product_price": ".product__price",
+        "product_addcart": ".product-form.product-form-product-template",
+        "product_description": ".product-single__description.rte",
+        "product_content": ".product__details-content"
+    },
+    {
+        "name": "supply",
+        "product_title": ".grid-item h1",
+        "product_price": ".product-meta",
+        "product_addcart": "#addToCartForm",
+        "product_description": ".product-description",
+        "product_content": ".grid"
+    },
+    {
+        "name": "pop",
+        "product_title": ".product-single__title",
+        "product_price": ".product-single__price",
+        "product_addcart": "div[itemprop='offers']",
+        "product_description": ".product-single__desc",
+        "product_content": ".product-single"
+    },
+    {
+        "name": "minimal",
+        "product_title": ".grid__item > h1",
+        "product_price": ".product-single__prices",
+        "product_addcart": "#addToCartForm",
+        "product_description": ".product-description",
+        "product_content": ".product-single"
+    },
+    {
+        "name": "empire",
+        "product_title": ".product-title",
+        "product_price": ".product-pricing",
+        "product_addcart": ".shopify-product-form",
+        "product_description": ".product-description",
+        "product_content": ".product--container"
+    },
+    {
+        "name": "pacific",
+        "product_title": ".page-title",
+        "product_price": ".product-price",
+        "product_addcart": ".payment-buttons-container",
+        "product_description": ".product-description",
+        "product_content": ".section-product"
+    },
+    {
+        "name": "sunrise",
+        "product_title": ".page-title",
+        "product_price": ".product-price",
+        "product_addcart": "[action='/cart/add']",
+        "product_description": ".product-description",
+        "product_content": ".shopify-section"
+    },
+    {
+        "name": "oots support",
+        "product_title": ".page-title",
+        "product_price": ".product-price",
+        "product_addcart": "[action='/cart/add']",
+        "product_description": ".product-description",
+        "product_content": ".shopify-section"
+    },
+    {
+        "name": "venture",
+        "product_title": ".product-single__title",
+        "product_price": ".product-single__meta",
+        "product_addcart": ".product-form",
+        "product_description": ".rte.product-single__description",
+        "product_content": ".product-single"
+    },
+    {
+        "name": "ella",
+        "product_title": ".product-title",
+        "product_price": ".prices",
+        "product_addcart": "#add-to-cart-form",
+        "product_description": ".panel-group",
+        "product_content": ".main-content"
+    },
+    {
+        "name": "brooklyn",
+        "product_title": ".product-single__title",
+        "product_price": ".product-single__policies",
+        "product_addcart": "form[action='/cart/add']",
+        "product_description": ".product-single__description",
+        "product_content": ".product-single"
+    },
+    {
+        "name": "turbo",
+        "product_title": ".product_section .product_name",
+        "product_price": ".product_section .modal_price",
+        "product_addcart": ".product_section form[action='/cart/add']",
+        "product_description": ".product_section .description",
+        "product_content": ".product_section"
+    },
+    {
+        "name": "district",
+        "product_title": ".single-product .product-title",
+        "product_price": ".single-product .product-single__price-product-template",
+        "product_addcart": ".single-product #CartButtons-product-template",
+        "product_description": ".single-product .description",
+        "product_content": ".single-product"
+    },
+    {
+        "name": "gecko",
+        "product_title": ".product .product_title",
+        "product_price": ".product .price-stock",
+        "product_addcart": ".product .product-form.no-ajax",
+        "product_description": ".product .Shopify-product-details__short-description",
+        "product_content": ".product"
+    },
+    {
+        "name": "boost",
+        "product_title": ".product-detail .product-detail__title",
+        "product_price": ".product-detail .product-detail__price",
+        "product_addcart": ".product-detail .btn-atc",
+        "product_description": ".product-detail .product-description__no-expand",
+        "product_content": ".product-detail"
+    },
+    {
+        "name": "booster",
+        "product_title": ".product-single .product-single__title",
+        "product_price": ".product-single .product-single__price",
+        "product_addcart": ".product-single #AddToCartForm",
+        "product_description": ".product-single .product-single__description",
+        "product_content": ".product-single"
+    },
+    {
+        "name": "install-me-wokiee",
+        "product_title": ".tt-product-single-info .tt-title",
+        "product_price": ".tt-product-single-info .tt-price",
+        "product_addcart": ".tt-product-single-info .shopify-product-form",
+        "product_description": ".container-indent1.prpage-tabs",
+        "product_content": ".tt-product-single-info"
+    },
+    {
+        "name": "testament",
+        "product_title": ".product-description [itemprop='name']",
+        "product_price": ".product-description #product-price",
+        "product_addcart": ".product-description form[action='/cart/add']",
+        "product_description": ".product-description #lower-description",
+        "product_content": ".product-description"
+    },
+    {
+        "name": "impulse",
+        "product_title": ".product-single__meta .product-single__title",
+        "product_price": ".product-single__meta .product__price",
+        "product_addcart": ".product-single__meta .product-single__form",
+        "product_description": ".product-single__meta .product-single__description",
+        "product_content": ".product-single__meta"
+    },
+    {
+        "name": "correct format1",
+        "product_title": ".product-single__meta .product-single__title",
+        "product_price": ".product-single__meta .product__price",
+        "product_addcart": ".product-single__meta .product-form",
+        "product_description": ".product-single__meta .product-single__description",
+        "product_content": ".product-single__meta"
+    },
+	{
+        "name": "monstera",
+        "product_title": ".product-single .product-single__title",
+        "product_price": ".product-single .product-single__price",
+        "product_addcart": ".product-single .quantity form",
+        "product_description": ".product-single .product-single__description",
+        "product_content": ".product-single"
+    },
+	{
+		"name": "87b43c19b8c553583723f041e8b58514",
+		"product_title": ".product-page-info .product-page-info__title",
+		"product_price": ".product-page-info .product-page-info__price",
+		"product_addcart": ".product-page-info .product-page-info__button-add-to-cart",
+		"product_description": ".product-page__tabs",
+		"product_content": "#shopify-section-carousel-related-products"
+	}
+]
