@@ -4,7 +4,6 @@ require 'vendor/autoload.php';
 use sandeepshetty\shopify_api;
 require 'conn-shopify.php';
 session_start();
-
 $select_settings = $db->query("SELECT * FROM tbl_appsettings WHERE id = $appId");
 $app_settings = $select_settings->fetch_object();
 
