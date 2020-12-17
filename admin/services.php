@@ -11,7 +11,6 @@ use sandeepshetty\shopify_api;
 require '../conn-shopify.php';
 
 $shop = "";
-
 if (isset($_GET["action"])) {
     $action = $_GET["action"];
     $shop = $_GET["shop"];
