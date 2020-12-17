@@ -6,7 +6,6 @@
     use sandeepshetty\shopify_api;
     require '../conn-shopify.php';
     session_start();
-
     if (isset($_GET['shop'])) {
         $shop = $_GET['shop'];
     }
